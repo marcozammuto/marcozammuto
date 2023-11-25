@@ -17,5 +17,5 @@ If you share the passion for creativity, problem-solving, and the fusion of art 
 🎵 **Musician by Heart, Coder by Choice** 🖥️  
 I'm open to discussions, collaborations, and opportunities. Connect with me via [Linkedin](https://www.linkedin.com/in/marco-zammuto-aa5212253) or drop me an email at [mrczammuto@gmail.com](mailto:mrczammuto@gmail.com).
 
-Let's code in harmony! 🎶✨
+Let's play some code! 🎶✨
 
