@@ -1,5 +1,5 @@
 ## Introduction
-Hey there! I'm a passionate musician who recently embarked on a new journey. Two months ago, I made a life-changing decision to transition into the world of coding. Every single day, I immerse myself in the world of programming, honing my skills and seeking new opportunities in this exciting field.
+Hey there! I'm a passionate musician who recently embarked on a new journey. Three months ago, I made a life-changing decision to transition into the world of coding. Every single day, I immerse myself in the world of programming, honing my skills and seeking new opportunities in this exciting field.
 
 ## About This Repository
 This is a collection of my projects, inspirations, and discoveries sourced from across the internet. As I traverse this new path, I aim to document my progress and gather creative insights from various sources related to coding, design, and development.
