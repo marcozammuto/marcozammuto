@@ -14,7 +14,6 @@ Each day is a new chance to learn, create, and grow. I spend my time exploring f
 If you share the passion for creativity, problem-solving, and the fusion of art and technology, come along! Let's collaborate, learn from each other, and build something incredible together. Feel free to explore the projects here and reach out—I'd love to connect with fellow enthusiasts, creators, and potential mentors.
 
 ## Get in Touch
-🎵 **Musician by Heart, Coder by Choice** 🖥️  
 I'm open to discussions, collaborations, and opportunities. Connect with me via [Linkedin](https://www.linkedin.com/in/marco-zammuto-aa5212253) or drop me an email at [mrczammuto@gmail.com](mailto:mrczammuto@gmail.com).
 
 Let's play some code! 🎶✨
